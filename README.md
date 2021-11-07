@@ -1,6 +1,7 @@
 # esys_flutter_share
 
 A [Flutter](https://flutter.io) plugin for sharing files & text with other applications.
+Note: this is a fork of a [fork by Neckaros](http://github.com/neckaros/esys-flutter-share.git) of the `esys_flutter_share` repository on `pub.dev`... as it does not seem to be maintained any longer based on stale PRs
 
 ## IMPORTANT Note for iOS
 If you are starting a new fresh app, you need to create the Flutter App with `flutter create -i swift` (see [flutter/flutter#13422 (comment)](https://github.com/flutter/flutter/issues/13422#issuecomment-392133780)), otherwise, you will get this message:
